@@ -40,8 +40,6 @@
 loadstring(game:HttpGet("https://is.gd/GUogOl"))()
 ```
 
-**[View hosted script](https://gist.github.com/ARTEMKA-bit-blip/f3e91a743c454fd2c333246db322d9ae)** · **[Direct Raw URL](https://gist.githubusercontent.com/ARTEMKA-bit-blip/f3e91a743c454fd2c333246db322d9ae/raw/aurora-bssa.lua)**
-
 *Loader compatibility depends on the execution environment. Mobile support is not verified. Solara and Xeno have not been tested.*
 
 <a id="features--english"></a>
@@ -114,8 +112,6 @@ The item is published through the developer's Roblox account; Fit Flip belongs t
 ```lua
 loadstring(game:HttpGet("https://is.gd/GUogOl"))()
 ```
-
-**[Исходный файл в Gist](https://gist.github.com/ARTEMKA-bit-blip/f3e91a743c454fd2c333246db322d9ae)** · **[Прямая Raw-ссылка](https://gist.githubusercontent.com/ARTEMKA-bit-blip/f3e91a743c454fd2c333246db322d9ae/raw/aurora-bssa.lua)**
 
 *Работа загрузчика зависит от среды исполнения. Мобильная версия не проверена. Solara и Xeno не тестировались.*
 
