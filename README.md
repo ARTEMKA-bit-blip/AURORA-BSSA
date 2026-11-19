@@ -10,6 +10,7 @@
 ![Trial](https://img.shields.io/badge/FREE_TRIAL-31_MINUTES-19a882?style=for-the-badge)
 ![Premium](https://img.shields.io/badge/PREMIUM-65_ROBUX-263c3a?style=for-the-badge)
 ![No Key](https://img.shields.io/badge/KEY-NOT_REQUIRED-a8dfcc?style=for-the-badge&labelColor=31544c)
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/X2-POLLENBee-Swarm-Simulator-Ascended-BSSA-MACRO-237346)](https://scriptblox.com/script/X2-POLLENBee-Swarm-Simulator-Ascended-BSSA-MACRO-237346)
 
 **[English](#english) · [Русский](#russian) · [Get started](#launch--english) · [Features](#features--english)**
 
